@@ -1,0 +1,121 @@
+employee_id,department,office_location,job_satisfaction_score,weekly_hours,projects_completed,annual_training_hours,commute_minutes,annual_salary_usd
+E0001,Customer Support,New York,6.0,39.2,3,19,52,87545.0
+E0002,Sales,New York,7.0,36.4,3,29,28,51656.0
+E0003,IT,New York,7.0,41.6,6,37,31,84521.0
+E0004,Human Resources,New York,7.0,34.9,6,26,40,72525.0
+E0005,Operations,New York,,31.1,6,21,41,58850.0
+E0006,Marketing,New York,7.0,41.2,5,40,22,66118.0
+E0007,Customer Support,Chicago,9.0,31.8,5,12,16,110013.0
+E0008,Sales,Chicago, 8 ,44.8,7,8,48,64572.0
+E0009,it,Chicago,6.0,41.4,3,36,26,69444.0
+E0010,Human Resources,Chicago,8.0,39.0,5,4,20,91964.0
+E0011,Operations,Chicago,9.0,41.0,5,7,63,
+E0012,Marketing,Chicago,10.0,53.8,4,30,44,76101.0
+E0013,Customer Support,Austin,6.0,43.0,7,17,32,41001.0
+E0014,Sales,Austin,15,44.4,6,29,53,76496.0
+E0015,IT,Austin,6.0,33.1,3,2,18,91977.0
+E0016,Human Resources,Austin,6.0,44.5,6,24,36,70075.0
+E0017,Operations,Austin,5.0,38.8,7,25,22,46101.0
+E0018,Marketing,Austin,6.0,43.6,7,40,30,59684.0
+E0019,Customer Support,Seattle,6.0,44.4,3,0,53,"$67,500"
+E0020,Sales,Seattle,7.0,40.3,4,7,15,52495.0
+E0021,IT,Seattle,6.0,37.0,1,27,41,98602.0
+E0022,Human Resources,Seattle,4.0,29.0,7,30,34,100696.0
+E0023,Human Resources ,Seattle,10.0,36.1,2,31,17,59897.0
+E0024,Marketing,Seattle,4.0,37.9,5,38,27,62743.0
+E0025,Customer Support,Atlanta,9.0,39.0,6,5,39,63711.0
+E0026,Sales,Atlanta,,34.0,1,17,34,55840.0
+E0027,IT,Atlanta,6.0,37.9,6,14,17,104176.0
+E0028,Human Resources,Atlanta,9.0,40.3,3,11,26,101113.0
+E0029,Operations,Atlanta,6.0,43.2,7,28,51,74087.0
+E0030,Marketing,Atlanta,9.0,36.6,7,28,3,93239.0
+E0031,Customer Support, new york ,6.0,42.1,5,24,26,48540.0
+E0032,Sales,Denver,8.0,47.0,1,9,3,54672.0
+E0033,IT,Denver,N/A,30.9,6,10,35,65687.0
+E0034,Human Resources,Denver,9.0,45.7,3,27,32,89434.0
+E0035,Operations,Denver,7.0,32.5,1,7,31,104667.0
+E0036,Marketing,Denver,8.0,30.9,4,19,3,98165.0
+E0037,Customer Support,New York,8.0,110.0,5,1,73,91294.0
+E0038,Sales,New York,6.0,51.3,4,18,43,81702.0
+E0039,IT,New York,8.0,33.6,7,34,37,61155.0
+E0040,Human Resources,New York,6.0,44.5,6,7,7,93347.0
+E0041,Operations,Chi-Town,9.0,35.9,6,25,59,91081.0
+E0042,Marketing,New York,8.0,43.3,1,22,43,50433.0
+E0043,Customer Support,Chicago,9.0,41.8,4,26,3,103316.0
+E0044,Sales,Chicago,7.0,-12.0,6,35,36,95322.0
+E0045,IT,Chicago,7.0,30.6,3,8,37,53624.0
+E0046,Human Resources,Chicago,7.0,38.8,7,28,33,70053.0
+E0047,Operations,Chicago,7.0,39.3,4,24,25,49107.0
+E0048,Marketing,Chicago,8.0,38.5,3,37,37,
+E0049,Customer Support,Austin,8.0,32.6,1,40,22,61906.0
+E0050,Sales,Austin,7.0,34.7,7,33,10,104587.0
+E0051,IT,Austin,6.0,30.3,4,12,24,93196.0
+E0052,Human Resources,Austin,8.0,37.1,3,0,22,110856.0
+E0053,Operations,Austin,6.0,37.0,3,1,55,62319.0
+E0054,Marketing,Austin,9.0,48.4,1,21,41,114383.0
+E0055,Customer Support,Seattle,8.0,40.4,2,25,68,41256.0
+E0056,Sales,Seattle,8.0,32.4,3,16,42,81001.0
+E0057,IT,Seattle,7.0,31.3,4,32,37,100347.0
+E0058,Human Resources,Seattle,7.0,36.7,2,36,34,unknown
+E0059,Operations,Seattle,6.0,42.2,4,40,51,46222.0
+E0060,Marketing,Seattle,5.0,38.5,4,25,6,46350.0
+E0061,Customer Support,Atlanta,8.0,38.4,7,6,3,91910.0
+E0062 ,Sales,Atlanta,7.0,38.2,5,32,53,95127.0
+E0063,IT,Atlanta,7.0,40.3,3,17,25,63188.0
+E0064,Human Resources,Atlanta,9.0,32.9,7,33,53,76270.0
+E0065,Operations,Atlanta,7.0,39.3,5,29,65,74479.0
+E0066,Marketing,Atlanta,7.0,38.3,3,11,23,62649.0
+E0067,Customer Support,Denver,8.0,33.4,-3,2,23,104323.0
+E0068,Sales,Denver,7.0,39.3,6,26,43,104012.0
+E0069,IT,Denver,8.0,38.2,1,3,47,94970.0
+E0070,Human Resources,Denver,7.0,46.4,6,28,7,77880.0
+E0071,Operations,Denver,6.0,32.7,2,36,41,69235.0
+E0072,Marketing,Denver,7.0,39.0,3,22,19,90543.0
+E0073,Customer Support,New York,7.0,42.4,7,19,21,110446.0
+E0074,Sales,New York,8.0,35.3,7,33,29,49322.0
+E0075,IT,New York,6.0,37.1,6,21,54,83152.0
+E0076,Human Resources,New York,8.0,39.9,2,32,15,94071.0
+E0077,Operations,New York,,41.3,2,27,23,64357.0
+E0078,Marketing,New York,7.0,39.6,4,22,38,88638.0
+E0079,Customer Support,Chicago,7.0,36.9,3,38,30,82955.0
+E0080,Sales,Chicago,9.0,32.6,7,19,56,54339.0
+E0081,IT,Chicago,8.0,42.5,3,19,17,108764.0
+E0082,Human Resources,Chicago,8.0,33.2,2,999,24,56194.0
+E0083,Operations,Chicago,6.0,39.3,7,19,24,52439.0
+E0084,Marketing,Chicago,8.0,30.9,4,10,20,109632.0
+E0085,Customer Support,Austin,7.0,37.3,1,15,45,107763.0
+E0086,Sales,Austin,7.0,42.4,3,5,44,59832.0
+E0087,IT,Austin,9.0,33.0,7,8,32,80899.0
+E0088,Human Resources,Austin,8.0,35.0,3,14,40,89026.0
+E0089,Operations,Austin,8.0,44.7,3,30,9,68410.0
+E0090,Marketing,Austin,8.0,42.0,7,18,25,
+E0091,Customer Support,Seattle,7.0,33.3,7,3,16,74964.0
+E0092,Sales,Seattle,8.0,46.3,1,11,39,99804.0
+E0093,IT,Seattle,10.0,34.1,6,2,24,51613.0
+E0094,Human Resources,Seattle,10.0,36.3,7,2,25,44439.0
+E0095,Operations,Seattle,8.0,41.4,5,16,43,70818.0
+E0096,Marketing,Seattle,9.0,42.9,5,3,39,76187.0
+E0097,Customer Support,Atlanta,6.0,38.5,6,8,42,40788.0
+E0098,Sales,Atlanta,9.0,41.7,5,35,37,53979.0
+E0099,IT,Atlanta,9.0,37.6,4,36,8,83723.0
+E0021,IT,Seattle,6.0,37.0,1,27,41,98602.0
+E0101,Operations,Atlanta,7.0,30.7,7,5,23,55470.0
+E0102,Marketing,Atlanta,7.0,38.5,5,36,21,69094.0
+E0103,Customer Support,Denver,6.0,38.0,7,13,10,49765.0
+E0104,Sales,Denver,7.0,37.2,6,20,59,102669.0
+E0105,IT,Denver,8.0,33.1,7,19,240,41866.0
+E0106,Human Resources,Denver,7.0,26.4,7,26,34,102533.0
+E0107,Operations,Denver,9.0,38.7,2,31,47,113806.0
+E0108,Marketing,Denver,6.0,40.2,6,8,17,64947.0
+E0109,Customer Support,New York,8.0,30.9,6,10,36,111109.0
+E0110,Sales,New York,6.0,39.9,3,14,53,67618.0
+E0111,IT,New York,6.0,32.4,2,16,20,48162.0
+E0112,Human Resources,New York,8.0,40.2,7,30,19,114057.0
+E0113,Operations,New York,6.0,41.2,4,4,61,101232.0
+E0114,Marketing,New York,6.0,32.3,7,10,39,65143.0
+E0115,Customer Support,Chicago,9.0,28.4,3,11,45,44062.0
+E0116,Sales,Chicago,10.0,40.7,6,6,41,96020.0
+E0117,IT,Chicago,6.0,32.5,1,29,48,70669.0
+E0118,Human Resources,Chicago,8.0,36.1,5,17,35,45062.0
+E0119,Operations,Chicago,8.0,41.8,3,14,29,70257.0
+E0120,Marketing,Chicago,7.0,45.0,7,1,6,72045.0

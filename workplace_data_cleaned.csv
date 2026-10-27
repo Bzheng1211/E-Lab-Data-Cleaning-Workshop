@@ -1,0 +1,116 @@
+employee_id,department,office_location,job_satisfaction_score,weekly_hours,projects_completed,annual_training_hours,commute_minutes,annual_salary_usd
+E0001,customer support,new york,6.0,39.2,3.0,19.0,52.0,87545.0
+E0002,sales,new york,7.0,36.4,3.0,29.0,28.0,51656.0
+E0003,it,new york,7.0,41.6,6.0,37.0,31.0,84521.0
+E0004,human resources,new york,7.0,34.9,6.0,26.0,40.0,72525.0
+E0005,operations,new york,7.327272727272727,31.1,6.0,21.0,41.0,58850.0
+E0006,marketing,new york,7.0,41.2,5.0,40.0,22.0,66118.0
+E0007,customer support,chicago,9.0,31.8,5.0,12.0,16.0,110013.0
+E0008,sales,chicago,8.0,44.8,7.0,8.0,48.0,64572.0
+E0009,it,chicago,6.0,41.4,3.0,36.0,26.0,69444.0
+E0010,human resources,chicago,8.0,39.0,5.0,4.0,20.0,91964.0
+E0011,operations,chicago,9.0,41.0,5.0,7.0,63.0,76823.04545454546
+E0013,customer support,austin,6.0,43.0,7.0,17.0,32.0,41001.0
+E0014,sales,austin,7.327272727272727,44.4,6.0,29.0,53.0,76496.0
+E0015,it,austin,6.0,33.1,3.0,2.0,18.0,91977.0
+E0016,human resources,austin,6.0,44.5,6.0,24.0,36.0,70075.0
+E0017,operations,austin,5.0,38.8,7.0,25.0,22.0,46101.0
+E0018,marketing,austin,6.0,43.6,7.0,40.0,30.0,59684.0
+E0019,customer support,seattle,6.0,44.4,3.0,0.0,53.0,76823.04545454546
+E0020,sales,seattle,7.0,40.3,4.0,7.0,15.0,52495.0
+E0021,it,seattle,6.0,37.0,1.0,27.0,41.0,98602.0
+E0022,human resources,seattle,4.0,29.0,7.0,30.0,34.0,100696.0
+E0023,human resources,seattle,10.0,36.1,2.0,31.0,17.0,59897.0
+E0024,marketing,seattle,4.0,37.9,5.0,38.0,27.0,62743.0
+E0025,customer support,atlanta,9.0,39.0,6.0,5.0,39.0,63711.0
+E0026,sales,atlanta,7.327272727272727,34.0,1.0,17.0,34.0,55840.0
+E0027,it,atlanta,6.0,37.9,6.0,14.0,17.0,104176.0
+E0028,human resources,atlanta,9.0,40.3,3.0,11.0,26.0,101113.0
+E0029,operations,atlanta,6.0,43.2,7.0,28.0,51.0,74087.0
+E0030,marketing,atlanta,9.0,36.6,7.0,28.0,3.0,93239.0
+E0031,customer support,new york,6.0,42.1,5.0,24.0,26.0,48540.0
+E0032,sales,denver,8.0,47.0,1.0,9.0,3.0,54672.0
+E0033,it,denver,7.327272727272727,30.9,6.0,10.0,35.0,65687.0
+E0034,human resources,denver,9.0,45.7,3.0,27.0,32.0,89434.0
+E0035,operations,denver,7.0,32.5,1.0,7.0,31.0,104667.0
+E0036,marketing,denver,8.0,30.9,4.0,19.0,3.0,98165.0
+E0038,sales,new york,6.0,51.3,4.0,18.0,43.0,81702.0
+E0039,it,new york,8.0,33.6,7.0,34.0,37.0,61155.0
+E0040,human resources,new york,6.0,44.5,6.0,7.0,7.0,93347.0
+E0041,operations,chi-town,9.0,35.9,6.0,25.0,59.0,91081.0
+E0042,marketing,new york,8.0,43.3,1.0,22.0,43.0,50433.0
+E0043,customer support,chicago,9.0,41.8,4.0,26.0,3.0,103316.0
+E0044,sales,chicago,7.0,38.11929824561404,6.0,35.0,36.0,95322.0
+E0045,it,chicago,7.0,30.6,3.0,8.0,37.0,53624.0
+E0046,human resources,chicago,7.0,38.8,7.0,28.0,33.0,70053.0
+E0047,operations,chicago,7.0,39.3,4.0,24.0,25.0,49107.0
+E0048,marketing,chicago,8.0,38.5,3.0,37.0,37.0,76823.04545454546
+E0049,customer support,austin,8.0,32.6,1.0,40.0,22.0,61906.0
+E0050,sales,austin,7.0,34.7,7.0,33.0,10.0,104587.0
+E0051,it,austin,6.0,30.3,4.0,12.0,24.0,93196.0
+E0052,human resources,austin,8.0,37.1,3.0,0.0,22.0,110856.0
+E0053,operations,austin,6.0,37.0,3.0,1.0,55.0,62319.0
+E0054,marketing,austin,9.0,48.4,1.0,21.0,41.0,114383.0
+E0055,customer support,seattle,8.0,40.4,2.0,25.0,68.0,41256.0
+E0056,sales,seattle,8.0,32.4,3.0,16.0,42.0,81001.0
+E0057,it,seattle,7.0,31.3,4.0,32.0,37.0,100347.0
+E0058,human resources,seattle,7.0,36.7,2.0,36.0,34.0,76823.04545454546
+E0059,operations,seattle,6.0,42.2,4.0,40.0,51.0,46222.0
+E0060,marketing,seattle,5.0,38.5,4.0,25.0,6.0,46350.0
+E0061,customer support,atlanta,8.0,38.4,7.0,6.0,3.0,91910.0
+E0062,sales,atlanta,7.0,38.2,5.0,32.0,53.0,95127.0
+E0063,it,atlanta,7.0,40.3,3.0,17.0,25.0,63188.0
+E0064,human resources,atlanta,9.0,32.9,7.0,33.0,53.0,76270.0
+E0065,operations,atlanta,7.0,39.3,5.0,29.0,65.0,74479.0
+E0066,marketing,atlanta,7.0,38.3,3.0,11.0,23.0,62649.0
+E0067,customer support,denver,8.0,33.4,4.517543859649122,2.0,23.0,104323.0
+E0068,sales,denver,7.0,39.3,6.0,26.0,43.0,104012.0
+E0069,it,denver,8.0,38.2,1.0,3.0,47.0,94970.0
+E0070,human resources,denver,7.0,46.4,6.0,28.0,7.0,77880.0
+E0071,operations,denver,6.0,32.7,2.0,36.0,41.0,69235.0
+E0072,marketing,denver,7.0,39.0,3.0,22.0,19.0,90543.0
+E0073,customer support,new york,7.0,42.4,7.0,19.0,21.0,110446.0
+E0074,sales,new york,8.0,35.3,7.0,33.0,29.0,49322.0
+E0075,it,new york,6.0,37.1,6.0,21.0,54.0,83152.0
+E0076,human resources,new york,8.0,39.9,2.0,32.0,15.0,94071.0
+E0077,operations,new york,7.327272727272727,41.3,2.0,27.0,23.0,64357.0
+E0078,marketing,new york,7.0,39.6,4.0,22.0,38.0,88638.0
+E0079,customer support,chicago,7.0,36.9,3.0,38.0,30.0,82955.0
+E0080,sales,chicago,9.0,32.6,7.0,19.0,56.0,54339.0
+E0081,it,chicago,8.0,42.5,3.0,19.0,17.0,108764.0
+E0083,operations,chicago,6.0,39.3,7.0,19.0,24.0,52439.0
+E0084,marketing,chicago,8.0,30.9,4.0,10.0,20.0,109632.0
+E0085,customer support,austin,7.0,37.3,1.0,15.0,45.0,107763.0
+E0086,sales,austin,7.0,42.4,3.0,5.0,44.0,59832.0
+E0087,it,austin,9.0,33.0,7.0,8.0,32.0,80899.0
+E0088,human resources,austin,8.0,35.0,3.0,14.0,40.0,89026.0
+E0089,operations,austin,8.0,44.7,3.0,30.0,9.0,68410.0
+E0090,marketing,austin,8.0,42.0,7.0,18.0,25.0,76823.04545454546
+E0091,customer support,seattle,7.0,33.3,7.0,3.0,16.0,74964.0
+E0092,sales,seattle,8.0,46.3,1.0,11.0,39.0,99804.0
+E0093,it,seattle,10.0,34.1,6.0,2.0,24.0,51613.0
+E0094,human resources,seattle,10.0,36.3,7.0,2.0,25.0,44439.0
+E0095,operations,seattle,8.0,41.4,5.0,16.0,43.0,70818.0
+E0096,marketing,seattle,9.0,42.9,5.0,3.0,39.0,76187.0
+E0097,customer support,atlanta,6.0,38.5,6.0,8.0,42.0,40788.0
+E0098,sales,atlanta,9.0,41.7,5.0,35.0,37.0,53979.0
+E0099,it,atlanta,9.0,37.6,4.0,36.0,8.0,83723.0
+E0101,operations,atlanta,7.0,30.7,7.0,5.0,23.0,55470.0
+E0102,marketing,atlanta,7.0,38.5,5.0,36.0,21.0,69094.0
+E0103,customer support,denver,6.0,38.0,7.0,13.0,10.0,49765.0
+E0104,sales,denver,7.0,37.2,6.0,20.0,59.0,102669.0
+E0106,human resources,denver,7.0,26.4,7.0,26.0,34.0,102533.0
+E0107,operations,denver,9.0,38.7,2.0,31.0,47.0,113806.0
+E0108,marketing,denver,6.0,40.2,6.0,8.0,17.0,64947.0
+E0109,customer support,new york,8.0,30.9,6.0,10.0,36.0,111109.0
+E0110,sales,new york,6.0,39.9,3.0,14.0,53.0,67618.0
+E0111,it,new york,6.0,32.4,2.0,16.0,20.0,48162.0
+E0112,human resources,new york,8.0,40.2,7.0,30.0,19.0,114057.0
+E0113,operations,new york,6.0,41.2,4.0,4.0,61.0,101232.0
+E0114,marketing,new york,6.0,32.3,7.0,10.0,39.0,65143.0
+E0115,customer support,chicago,9.0,28.4,3.0,11.0,45.0,44062.0
+E0116,sales,chicago,10.0,40.7,6.0,6.0,41.0,96020.0
+E0117,it,chicago,6.0,32.5,1.0,29.0,48.0,70669.0
+E0118,human resources,chicago,8.0,36.1,5.0,17.0,35.0,45062.0
+E0119,operations,chicago,8.0,41.8,3.0,14.0,29.0,70257.0
+E0120,marketing,chicago,7.0,45.0,7.0,1.0,6.0,72045.0
